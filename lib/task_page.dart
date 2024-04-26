@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lista_sqflite/providers/providers.dart';
+import 'package:lista_sqflite/providers/database.dart';
 import 'package:lista_sqflite/models/task.dart';
 
 class TaskPage extends StatefulWidget {
